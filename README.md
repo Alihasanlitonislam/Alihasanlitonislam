@@ -3,7 +3,7 @@
 #### Web Devloper
 I am Ali Hasan student of Dinajpur Polytechnic Institute computer department . I want to learn Java script
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript 
